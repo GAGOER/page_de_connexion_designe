@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "connexion-ac941": {
+      "hosting": {
+        "app": [
+          "connexion-ac941"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "connexion-ac941"
+  }
+}
